@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Product from './Product';
 import productData from './data';
-import ShoppingBag from './ShoppingBag';
 import AppHeader from './AppHeader'
 
 export default class HomePage extends Component {

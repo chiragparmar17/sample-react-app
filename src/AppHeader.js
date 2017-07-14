@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ShoppingBag from './ShoppingBag';
 
 export default class AppHeader extends Component {
   constructor(props){
